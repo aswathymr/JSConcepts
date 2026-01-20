@@ -51,7 +51,7 @@ if(time > 3){
     let message = "hey how are you?";
     console.log(message);
 }
-console.log(m) // i am print this because let m is defined oustside the block (i.e. { })
+console.log(m) // i can print this because let m is defined oustside the block (i.e. { })
 //console.log(message);// this line gives error because let message is defined inside the block (i.e. {})
 
 //var can be redeclared and reinitialized 
